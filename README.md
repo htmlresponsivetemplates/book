@@ -2,7 +2,7 @@
 
 #Description
 
-Free open-source Material Design Lite [Book](http://htmlresponsivetemplates.com/project/book) landing page.
+Free open-source Material Design Lite [Book](http://htmlresponsivetemplates.com/project/book) blog template.
 
 ## Getting Started
 
